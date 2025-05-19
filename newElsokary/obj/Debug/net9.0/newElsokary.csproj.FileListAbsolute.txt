@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\bin\Debug\net9.0\newElsokary.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\bin\Debug\net9.0\newElsokary.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\bin\Debug\net9.0\newElsokary.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\bin\Debug\net9.0\newElsokary.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\bin\Debug\net9.0\newElsokary.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\refint\newElsokary.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\newElsokary.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\newElsokary\newElsokary\obj\Debug\net9.0\ref\newElsokary.dll
